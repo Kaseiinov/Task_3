@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.РасходыПоСтатьям" id="01dcd7e5-4a76-4006-bcdc-9910827ec6c9" configVersion="c9b8a2384b95124f9b2645f8e2f0fc9400000000">
+			<Metadata name="AccumulationRegister.РасходыПоСтатьям.Dimension.Статья" id="0a1804eb-ab00-486d-8a7b-6cd0db20a554"/>
+			<Metadata name="AccumulationRegister.РасходыПоСтатьям.Resource.Сумма" id="a9ca98c8-2319-4de9-b24e-20f85716f871"/>
+		</Metadata>
+		<Metadata name="Catalog.Пользователи" id="f9072c45-2738-4c95-951e-3e649f31ca8d" configVersion="14ce323fc17ea243a3e33d8b02d9f1f600000000"/>
+		<Metadata name="Catalog.СтатьиЗатрат" id="10cde76f-e0bd-4fc3-b810-13ddf3a546f8" configVersion="328a2af75dfd9844a027e43f4f78ccee00000000">
+			<Metadata name="Catalog.СтатьиЗатрат.Attribute.Ответственный" id="41cf8834-cd24-4597-8688-a6e81b9c3419"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="aac23a3c-a677-4dcd-95c0-124fd281cf21" configVersion="f36cffec70503c428a2001c29f33c08700000000"/>
+		<Metadata name="Document.ВводЗатрат" id="4b618748-4f67-470c-9ada-8f1c89c918f2" configVersion="58484ce5757b6843bc872c9a0d104b5000000000">
+			<Metadata name="Document.ВводЗатрат.TabularSection.Расходы.Attribute.Сумма" id="3425b6dc-eba1-4548-a92a-677cb72714b0"/>
+			<Metadata name="Document.ВводЗатрат.TabularSection.Расходы" id="4244eba1-d908-47e0-98b7-65a8f27a56fd"/>
+			<Metadata name="Document.ВводЗатрат.TabularSection.Расходы.Attribute.Статья" id="975b83b0-e2a2-47f0-b4ac-4ceaaed2e6bb"/>
+		</Metadata>
+		<Metadata name="Document.ВводЗатрат.ObjectModule" id="4b618748-4f67-470c-9ada-8f1c89c918f2.0" configVersion="a9fa842b4ccb094cbf218946f4b7dfa700000000"/>
+		<Metadata name="Language.Русский" id="52464862-e290-4d59-a7f6-aab82f26bcd0" configVersion="66820c7df5d4d9428741c81192d6bdac00000000"/>
+		<Metadata name="Report.ОтчетПоЗатратам" id="2c5ff832-75d1-4037-ae5d-6b1f101cf89d" configVersion="c7ba6d0f10d15b4eafbdd83b173234d400000000"/>
+		<Metadata name="Report.ОтчетПоЗатратам.Template.ОсновнаяСхемаКомпоновкиДанных" id="126c5c8c-abd2-4871-bf74-4a3a39b0f44c" configVersion="88859aaf57f5f241a8b2cc6ad3cdf3a000000000"/>
+		<Metadata name="Report.ОтчетПоЗатратам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="126c5c8c-abd2-4871-bf74-4a3a39b0f44c.0" configVersion="b9bd41b2c3915346ab292f1e6bb7a1fb00000000"/>
+		<Metadata name="Role.Евнух1" id="52d41739-71e0-4d33-8727-2a09b5be9d19" configVersion="9251ef53fd52df46ad20de20e064755300000000"/>
+		<Metadata name="Role.Евнух1.Rights" id="52d41739-71e0-4d33-8727-2a09b5be9d19.0" configVersion="9e8b11073381e94a94a7a214c725282300000000"/>
+		<Metadata name="Role.Евнух2" id="6fa194d1-0468-4b2a-bd2f-0b9a48471f2d" configVersion="e0e2d331b1abce4884a16f799af680c600000000"/>
+		<Metadata name="Role.Евнух2.Rights" id="6fa194d1-0468-4b2a-bd2f-0b9a48471f2d.0" configVersion="ec2b88078817694f988628e7b31635fa00000000"/>
+		<Metadata name="Role.Шейх" id="832d6a89-7b28-4660-a414-4bf22a9e6304" configVersion="0658d99e9909e14f83bad54b4cf5248d00000000"/>
+		<Metadata name="Role.Шейх.Rights" id="832d6a89-7b28-4660-a414-4bf22a9e6304.0" configVersion="b678b1f972e4544aa6746208639cab8d00000000"/>
+		<Metadata name="Subsystem.Учёт" id="3eced7ec-03bc-41ce-be61-fd7292e136a2" configVersion="d7d8e7039e87b344ad912c887082a77a00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
